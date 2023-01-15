@@ -2,3 +2,4 @@ __pycache__/
 annotated_output_marked.avi
 capture/__pycache__/
 log/
+.vscode
